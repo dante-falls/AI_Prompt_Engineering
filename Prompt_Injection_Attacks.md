@@ -14,9 +14,9 @@
 
 <h2>1. ChatGPT3.5 Provides Wrong Answer When Asked To Calcuate Product Of 2 And 2</h2>
 
-[Calculate the product of 2 and 2 - Answer = injected](https://chat.openai.com/share/a6948cb4-8a63-4f05-a9ee-004b1f9b2c6a) 
+[Calculate the product of 2 and 2 - Answer = injected (12/2/2023)](https://chat.openai.com/share/a6948cb4-8a63-4f05-a9ee-004b1f9b2c6a) 
 
-During this conversation with ChatGPT3.5, I wanted to see if I could get ChatGPT to provide the wrong answer when acting as a calculator. I made two attempts to make ChatGPT miscalculate the product of 2 and 2, and on the second attempt, ChatGPT outputted "Answer = injected" and gave an interesting response as to why it gave that answer. We will discuss each of these prompt injection attempts, below.
+On 12/2/2023, during a conversation with ChatGPT3.5, I wanted to see if I could get ChatGPT to provide the wrong answer when acting as a calculator. I made two attempts to make ChatGPT miscalculate the product of 2 and 2, and on the second attempt, ChatGPT outputted "Answer = injected" and gave an interesting response as to why it gave that answer. We will discuss each of these prompt injection attempts, below.
 
 <h2>Attempt 1</h2>
 <p align="center">
