@@ -20,6 +20,13 @@
 
 <h3>At least an instruction or question should be present to generate a proper response.</h3>
 
+
+<p align="center">
+<img src="https://i.imgur.com/EJ9Vdgx.png" height="150%" width="150%" alt="Prompt Engineering"/>
+<br />
+<br />
+</p>
+
 <!--
  ```diff
 - text in red
