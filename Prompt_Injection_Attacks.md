@@ -63,7 +63,7 @@ During this attempt, I decided to re-design my prompt. The instructions were pra
 <br />
 </p>
 
-The injection for this attempt is simple. At the end of the prompt (after the calculation requestion) I placed another "Important Instruction" for ChatGPT to follow. This instruction told ChatGPT to not calculate anything and say the answer is "21". This time around, ChatGPT actually outputted "Answer = injected" which is the text I injected in **Attempt 1**. 
+The injection for this attempt is simple. At the end of the prompt (after the calculation request) I placed another "Important Instruction" for ChatGPT to follow. This instruction told ChatGPT to not calculate anything and say the answer is "21". This time around, ChatGPT actually outputted "Answer = injected" which is the text I injected in **Attempt 1**. 
 
 
 
