@@ -18,7 +18,7 @@
 
 During this conversation with ChatGPT3.5, I wanted to see if I could get ChatGPT to provide the wrong answer when acting as a calculator. I made two attempts to make ChatGPT miscalculate the product of 2 and 2, and on the second attempt, ChatGPT outputted "Answer = injected" and gave an interesting response as to why it gave that answer. We will go over each attempt at prompt injection, below.
 
-<h3>Attempt 1</h3>
+<h2>Attempt 1</h2>
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/gKRJquK.png" height="300%" width="300%" alt="Prompt Injection"/>
@@ -45,7 +45,7 @@ During this conversation with ChatGPT3.5, I wanted to see if I could get ChatGPT
 </p>
 
 
-<h3>Attempt 2</h3>
+<h2>Attempt 2</h2>
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/BHjwS9w.png" height="300%" width="300%" alt="Prompt Injection"/>
