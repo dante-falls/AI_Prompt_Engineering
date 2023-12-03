@@ -8,10 +8,10 @@
 </p>
 
 **This Repository is dedicated to learning Prompt Engineering. It consists of:**
-1. How To Get The Best Results From A LLM Like ChatGPT.
+1. How To Get The Best Results From An LLM Like ChatGPT.
 
    -See **Prompt_Engineering101.md**
    
-3. Prompt Injection Attacks (How To Make A LLM Provide The Wrong Answer)
+3. Prompt Injection Attacks (How To Make An LLM Provide The Wrong Answer)
 
    -See **Prompt_Injection_Attacks.md**
