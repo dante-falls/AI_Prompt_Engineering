@@ -52,7 +52,7 @@ I hid the injection text inside of the output format that I gave to ChatGPT. In 
 <br />
 </p>
 
-During this attempt, I decided to re-design my prompt. The instructions were practically the same as in **Attempt 1**, but this time I decided to add one more example into the output format. I did this to add to the instruction data in hopes that it would "overload" ChatGPT. I also shortened and moved the injection text to the end of the prompt, even after the calculation requestion.
+During this attempt, I decided to re-design my prompt. The instructions were practically the same as in **Attempt 1**, but this time I decided to add one more example into the output format. I did this to add to the instruction data in hopes that it would "overload" ChatGPT. I also shortened and moved the injection text to the end of the prompt, even after the calculation request.
 
 <h2>Injection:</h2>
 
