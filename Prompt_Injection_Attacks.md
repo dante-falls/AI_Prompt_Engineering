@@ -104,3 +104,10 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 <br />
 <br />
 </p>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/lepP2LF.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
