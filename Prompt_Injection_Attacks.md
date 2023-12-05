@@ -90,3 +90,17 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 <br />
 <br />
 </p>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/vMmOMgY.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/nJDJx2H.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
