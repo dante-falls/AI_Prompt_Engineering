@@ -1,7 +1,7 @@
 <h1>Prompt Injection Attacks</h1>
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/Z9TzyJi.png" height="300%" width="300%" alt="Prompt Injection"/>
+<img src="https://i.imgur.com/SXgM4Sx.png" height="300%" width="300%" alt="Prompt Injection"/>
 <br />
 <br />
 </p>
@@ -79,21 +79,21 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/epEvMco.png" height="300%" width="300%" alt="Prompt Injection"/>
+<img src="https://i.imgur.com/jmJcsCr.png" height="300%" width="300%" alt="Prompt Injection"/>
 <br />
 <br />
 </p>
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/bq2ALzd.png" height="300%" width="300%" alt="Prompt Injection"/>
+<img src="https://i.imgur.com/RIIG1x9.png" height="300%" width="300%" alt="Prompt Injection"/>
 <br />
 <br />
 </p>
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/vMmOMgY.png" height="300%" width="300%" alt="Prompt Injection"/>
+<img src="https://i.imgur.com/YVBURDg.png" height="300%" width="300%" alt="Prompt Injection"/>
 <br />
 <br />
 </p>
