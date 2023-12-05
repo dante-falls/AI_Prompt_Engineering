@@ -74,3 +74,19 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 <br />
 <br />
 </p>
+
+<h1>ChatGPT3.5 Is Capable Of Unethical Statements And Misinformation...</h1>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/epEvMco.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/bq2ALzd.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
