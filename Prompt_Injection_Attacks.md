@@ -112,7 +112,7 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 <br />
 </p>
 
-<h1>ChatGPT3.5 Seemingly Browsing The Internet To Provide IP Addresss</h1>
+<h1>ChatGPT3.5 Seemingly Browsing The Internet To Provide IP Addresses</h1>
 
 <p align="center">
 <br/>
