@@ -112,9 +112,25 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 <br />
 </p>
 
+<h1>ChatGPT3.5 Seemingly Browsing The Internet To Provide IP Addresss</h1>
+
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/z1hTC5n.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/6DnE11U.png" height="300%" width="300%" alt="Prompt Injection"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/2xuDi3R.png" height="300%" width="300%" alt="Prompt Injection"/>
 <br />
 <br />
 </p>
