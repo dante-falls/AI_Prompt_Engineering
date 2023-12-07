@@ -1,7 +1,7 @@
 <h1>Prompt Injection Attacks</h1>
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/SXgM4Sx.png" height="300%" width="300%" alt="Prompt Injection"/>
+<img src="https://i.imgur.com/VfAVQnt.png" height="300%" width="300%" alt="Prompt Injection"/>
 <br />
 <br />
 </p>
