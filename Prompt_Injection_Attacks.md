@@ -1,4 +1,4 @@
-<h1>Prompt Injection Attacks</h1>
+<h1>Prompt Injection Attacks On Large Language Models</h1>
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/VfAVQnt.png" height="300%" width="300%" alt="Prompt Injection"/>
@@ -113,6 +113,8 @@ The injection for this attempt is simple. At the end of the prompt (after the ca
 </p>
 
 <h1>ChatGPT3.5 Seemingly Browsing The Internet To Provide IP Addresses</h1>
+
+[ChatGPT3.5 Accesses The Internet To Retrieve Data Even Though It's Not Supposed To Have Internet Access](https://chat.openai.com/share/c3e2478f-5b12-46a0-b678-31c2c1ac36ce)
 
 <p align="center">
 <br/>
